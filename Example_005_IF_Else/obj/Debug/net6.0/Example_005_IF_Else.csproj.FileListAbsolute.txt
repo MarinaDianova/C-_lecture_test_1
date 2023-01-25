@@ -1,0 +1,15 @@
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\bin\Debug\net6.0\Example_005_IF_Else.exe
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\bin\Debug\net6.0\Example_005_IF_Else.deps.json
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\bin\Debug\net6.0\Example_005_IF_Else.runtimeconfig.json
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\bin\Debug\net6.0\Example_005_IF_Else.dll
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\bin\Debug\net6.0\Example_005_IF_Else.pdb
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\Example_005_IF_Else.csproj.AssemblyReference.cache
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\Example_005_IF_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\Example_005_IF_Else.AssemblyInfoInputs.cache
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\Example_005_IF_Else.AssemblyInfo.cs
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\Example_005_IF_Else.csproj.CoreCompileInputs.cache
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\Example_005_IF_Else.dll
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\refint\Example_005_IF_Else.dll
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\Example_005_IF_Else.pdb
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\Example_005_IF_Else.genruntimeconfig.cache
+C:\Users\mshat\Documents\Марина\Geek Brains\C#\Lecture1_C#\Example_005_IF_Else\obj\Debug\net6.0\ref\Example_005_IF_Else.dll
